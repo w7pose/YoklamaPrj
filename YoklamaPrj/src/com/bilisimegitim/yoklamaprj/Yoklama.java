@@ -6,6 +6,7 @@ public class Yoklama {
 
 		String[] isimler = { "yunus", "gülşah", "berna", "esra", "bora", "boğaç", "taner", "sertaç" };
 
+		// isimleri yazdırıyoruz
 		for (int i = 0; i < isimler.length; i++) {
 			System.out.println(isimler[i]);
 		}
